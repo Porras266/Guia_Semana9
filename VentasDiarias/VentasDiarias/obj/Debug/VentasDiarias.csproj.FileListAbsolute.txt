@@ -1,0 +1,7 @@
+C:\Users\USUARIO\source\repos\VentasDiarias\VentasDiarias\bin\Debug\VentasDiarias.exe.config
+C:\Users\USUARIO\source\repos\VentasDiarias\VentasDiarias\bin\Debug\VentasDiarias.exe
+C:\Users\USUARIO\source\repos\VentasDiarias\VentasDiarias\bin\Debug\VentasDiarias.pdb
+C:\Users\USUARIO\source\repos\VentasDiarias\VentasDiarias\obj\Debug\VentasDiarias.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\VentasDiarias\VentasDiarias\obj\Debug\VentasDiarias.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\VentasDiarias\VentasDiarias\obj\Debug\VentasDiarias.exe
+C:\Users\USUARIO\source\repos\VentasDiarias\VentasDiarias\obj\Debug\VentasDiarias.pdb

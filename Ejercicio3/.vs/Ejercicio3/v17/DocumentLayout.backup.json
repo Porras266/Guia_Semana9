@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Ejercicios\\Ejercicio3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED147E5B-D468-4D25-A5B5-B97551ABC6FF}|Ejercicio3\\Ejercicio3.csproj|C:\\Users\\USUARIO\\Desktop\\Ejercicios\\Ejercicio3\\ejercicio3\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED147E5B-D468-4D25-A5B5-B97551ABC6FF}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED147E5B-D468-4D25-A5B5-B97551ABC6FF}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\usuario\\downloads\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program3.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\Program3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Program3.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\Program3.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Program3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:18:49.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Funciones.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Ejercicios\\Ejercicio3\\Ejercicio3\\Funciones.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Funciones.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Ejercicios\\Ejercicio3\\Ejercicio3\\Funciones.cs",
+              "RelativeToolTip": "Ejercicio3\\Funciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:20:29.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
