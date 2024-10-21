@@ -1,0 +1,7 @@
+C:\Users\All in one\source\repos\Guia_Didactica_9\Guia_Didactica_9\bin\Debug\Guia_Didactica_9.exe.config
+C:\Users\All in one\source\repos\Guia_Didactica_9\Guia_Didactica_9\bin\Debug\Guia_Didactica_9.exe
+C:\Users\All in one\source\repos\Guia_Didactica_9\Guia_Didactica_9\bin\Debug\Guia_Didactica_9.pdb
+C:\Users\All in one\source\repos\Guia_Didactica_9\Guia_Didactica_9\obj\Debug\Guia_Didactica_9.csproj.AssemblyReference.cache
+C:\Users\All in one\source\repos\Guia_Didactica_9\Guia_Didactica_9\obj\Debug\Guia_Didactica_9.csproj.CoreCompileInputs.cache
+C:\Users\All in one\source\repos\Guia_Didactica_9\Guia_Didactica_9\obj\Debug\Guia_Didactica_9.exe
+C:\Users\All in one\source\repos\Guia_Didactica_9\Guia_Didactica_9\obj\Debug\Guia_Didactica_9.pdb
