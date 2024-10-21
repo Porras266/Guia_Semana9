@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9E5B8C9D-1844-4D9A-859A-891EC5BE2D23}</ProjectGuid>
+    <ProjectGuid>{4866CD7A-4055-4A4D-AB8B-7AC0B3103E0F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>VentasDiarias</RootNamespace>
-    <AssemblyName>VentasDiarias</AssemblyName>
+    <RootNamespace>Ejercicio5</RootNamespace>
+    <AssemblyName>Ejercicio5</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\Downloads\Program2.cs" />
+    <Compile Include="..\..\..\..\Downloads\Program5.cs" />
     <Compile Include="Funciones.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
